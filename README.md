@@ -1,3 +1,6 @@
+![](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif) 
+
+
 # 💫 About Me:
 🔭 I’m currently working on Deep Learning - Traffic Analysis System<br><br>🌱 I’m currently learning Swift, UIKit, Unsupervised Learning<br><br>💬 Ask me about Swift, AWS<br><br>📫 How to reach me kumarsashwat30@gmail.com<br><br>⚡ Passion is overrated
 
